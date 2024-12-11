@@ -1,5 +1,5 @@
 import Button from "@/app/components/Button"; // Importing a reusable Button component
-import { nikeProducts } from "@/app/components/Cards/data"; // Importing the Nike products data
+import { nikeProducts } from "@/app/components/Cards/datas"; // Importing the Nike products data
 import Image from "next/image"; // Importing Next.js optimized Image component
 import Link from "next/link"; // Importing Link component for client-side navigation
 

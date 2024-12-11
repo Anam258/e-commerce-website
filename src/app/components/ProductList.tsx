@@ -1,6 +1,6 @@
 import React from 'react';
 // Import the data from the 'data' file, which contains the list of products
-import { nikeProducts } from './Cards/data'; 
+import { nikeProducts } from './Cards/datas'; 
 
 // Import the Card component that will be used to display each product
 import Card from './Cards/Card';

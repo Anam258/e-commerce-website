@@ -1,7 +1,7 @@
 "use client"
 import React, {useRef} from 'react';
 import Slider from "react-slick";
-import { nikeProducts } from './Cards/data'; 
+import { nikeProducts } from './Cards/datas'; 
 import arrowRightIcon from "@public/images/icons/right-arrow.svg";
 import arrowLeftIcon from "@public/images/icons/left-arrow.svg";
 import Card from './Cards/Card';

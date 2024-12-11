@@ -65,7 +65,7 @@ export default function Hero() {
           {/* Product 1 */}
           <div className="border border-white rounded-md p-4">
             <Image
-              src="/images/image1.png" // Replace with actual image from the public folder
+              src="/images/image1.png" 
               alt="Nike Air Max Pulse"
               width={300}
               height={300}
